@@ -15,3 +15,5 @@
 <h3>My Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyar730&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyar730&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
