@@ -13,4 +13,4 @@
 
 <h3>My Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyar730a&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyar730&show_icons=true&theme=radical)
